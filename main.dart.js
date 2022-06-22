@@ -56163,7 +56163,7 @@ A.a1R.prototype={
 $0(){A.yS(A.pb("https://hyperbrain.ai/static/media/Tmax_product_profile.a3c500becc4bb9ae9590.pdf",0,null))},
 $S:0}
 A.a1S.prototype={
-$0(){A.yS(A.pb("tel:+1 555 010 999",0,null))},
+$0(){A.yS(A.pb("tel:031 8018 1111",0,null))},
 $S:0}
 A.qI.prototype={
 a8(){return new A.Fv(B.l)}}
