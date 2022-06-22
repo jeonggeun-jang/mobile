@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8fe214741df136fabeacc99d36104b9c",
+  "assets/AssetManifest.json": "4ecbb79f637f12123631c95b42ef4f47",
 "assets/assets/images/account_universe.jpg": "58cabca551494366334f64e492c6a96f",
 "assets/assets/images/card_nlp_1.png": "3ccccc8113fec84ab28cbef91daba58b",
 "assets/assets/images/card_nlp_2.png": "69b8ab20cba740f348752404d5d4683f",
@@ -11,10 +11,12 @@ const RESOURCES = {
 "assets/assets/images/card_voice_1.png": "a6ad7f06d62e48788d254ecba515cb4b",
 "assets/assets/images/card_voice_2.png": "04d32c75da1e3f0e2274b8c1e56244a5",
 "assets/assets/images/card_voice_3.png": "19d7dbbff9d7834e50dd3cd03be2477b",
+"assets/assets/images/infose_logo.png": "57cb3865fce7a8f134911ec529f4225f",
 "assets/assets/images/main_logo.png": "4204138db72bb388837934ba9bb2dfde",
 "assets/assets/images/main_robot.png": "842bece9a2589d1f63bce7402919db91",
 "assets/assets/images/main_superNLP.png": "9439d6a94b0a66efe7f04d758c239953",
 "assets/assets/images/main_tmax_superNLP.png": "9289bd7df9f063becc99e56bae184ba6",
+"assets/assets/images/uri_logo.png": "248ede9bae544749b37f051933a67b98",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "5ea45c8000c714074659b940f0ba0263",
@@ -32,9 +34,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "71ddb171074ac14aadc8895e5a4b7d88",
-"/": "71ddb171074ac14aadc8895e5a4b7d88",
-"main.dart.js": "bef250d00ac1b389436a9831e55df756",
+"index.html": "7dc270ae37b5fc82c67393b299c33da9",
+"/": "7dc270ae37b5fc82c67393b299c33da9",
+"main.dart.js": "9d21b40cf582d86a822471383e4b946d",
 "manifest.json": "fab29a0c2c29ce0165af354c54ba3742",
 "version.json": "2fddb62e923c8f3d5bbfd11e41ce1cd9"
 };
