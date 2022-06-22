@@ -55975,7 +55975,7 @@ $S:0}
 A.t9.prototype={
 a7(){return new A.H9(B.l)}}
 A.H9.prototype={
-F(a,b){var s=null,r=A.b([new A.vH(B.uA,new A.zu(A.jo("assets/images/main_logo.png",B.ku,s,60),B.m,s),B.J4,B.J3,s)],t.D),q=A.aQ([null,0],t.st,t.S)
+F(a,b){var s=null,r=A.b([new A.vH(B.uA,new A.zu(A.jo("assets/images/main_logo.png",B.ku,s,60),B.m,s),B.J5,B.J4,s)],t.D),q=A.aQ([null,0],t.st,t.S)
 return A.uC(!0,new A.Ab(new A.Bs(new A.Y2(!0,!0,!0,r,q),s,B.ak,!1,s,!0,B.u7,s,!1,s,0,s,1,B.a3,B.t7,s,B.U,s),s),!0)}}
 A.ta.prototype={
 a7(){return new A.Ha(B.l)}}
@@ -55996,7 +55996,7 @@ return A.hE(A.a8F(this.a,B.qL),r.a.b*0.3,s.a.a)},
 $S:117}
 A.B5.prototype={
 F(a,b){var s=null,r=t.D
-return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_nlp_1.png",B.b8,s,s),A.cO(A.b([B.Cl,A.cO(A.b([B.Cz,B.Cr,B.Cs,new A.aw(B.bH,A.tK(B.cb,new A.R4(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
+return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_nlp_1.png",B.b8,s,s),A.cO(A.b([B.Cm,A.cO(A.b([B.Cs,B.Ch,B.Ct,new A.aw(B.bH,A.tK(B.cb,new A.R4(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
 A.R4.prototype={
 $0(){var s=null,r=this.a.I(t.Cu)
 r.toString
@@ -56004,7 +56004,7 @@ r.f.jH(A.oD(s,s,s,B.aR,B.U,B.cc,B.bc,B.ax,s,s,s,s,s,new A.bQ(A.i2(10),B.p),s))},
 $S:0}
 A.B7.prototype={
 F(a,b){var s=null,r=t.D
-return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_nlp_2.png",B.b8,s,s),A.cO(A.b([B.Cd,A.cO(A.b([B.C9,B.Cv,B.Cm,new A.aw(B.bH,A.tK(B.cb,new A.R6(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
+return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_nlp_2.png",B.b8,s,s),A.cO(A.b([B.Cd,A.cO(A.b([B.C9,B.Cw,B.Cn,new A.aw(B.bH,A.tK(B.cb,new A.R6(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
 A.R6.prototype={
 $0(){var s=null,r=this.a.I(t.Cu)
 r.toString
@@ -56012,7 +56012,7 @@ r.f.jH(A.oD(s,s,s,B.aR,B.U,B.cc,B.bc,B.ax,s,s,s,s,s,new A.bQ(A.i2(10),B.p),s))},
 $S:0}
 A.B9.prototype={
 F(a,b){var s=null,r=t.D
-return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_nlp_3.png",B.b8,s,s),A.cO(A.b([B.Ck,A.cO(A.b([B.Cx,B.Ce,B.Cg,new A.aw(B.bH,A.tK(B.cb,new A.R8(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
+return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_nlp_3.png",B.b8,s,s),A.cO(A.b([B.Cl,A.cO(A.b([B.Cy,B.Ce,B.Cg,new A.aw(B.bH,A.tK(B.cb,new A.R8(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
 A.R8.prototype={
 $0(){var s=null,r=this.a.I(t.Cu)
 r.toString
@@ -56033,7 +56033,7 @@ return A.hE(A.a8F(this.a,B.qL),r.a.b*0.3,s.a.a)},
 $S:117}
 A.B6.prototype={
 F(a,b){var s=null,r=t.D
-return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_voice_1.png",B.b8,s,s),A.cO(A.b([B.Ch,A.cO(A.b([B.Cw,B.Cq,B.Cc,new A.aw(B.bH,A.tK(B.cb,new A.R5(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
+return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_voice_1.png",B.b8,s,s),A.cO(A.b([B.Ci,A.cO(A.b([B.Cx,B.Cr,B.Cc,new A.aw(B.bH,A.tK(B.cb,new A.R5(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
 A.R5.prototype={
 $0(){var s=null,r=this.a.I(t.Cu)
 r.toString
@@ -56041,7 +56041,7 @@ r.f.jH(A.oD(s,s,s,B.aR,B.U,B.cc,B.bc,B.ax,s,s,s,s,s,new A.bQ(A.i2(10),B.p),s))},
 $S:0}
 A.B8.prototype={
 F(a,b){var s=null,r=t.D
-return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_voice_2.png",B.b8,s,s),A.cO(A.b([B.Co,A.cO(A.b([B.Cu,B.Ct,B.Cf,new A.aw(B.bH,A.tK(B.cb,new A.R7(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
+return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_voice_2.png",B.b8,s,s),A.cO(A.b([B.Cp,A.cO(A.b([B.Cv,B.Cu,B.Cf,new A.aw(B.bH,A.tK(B.cb,new A.R7(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
 A.R7.prototype={
 $0(){var s=null,r=this.a.I(t.Cu)
 r.toString
@@ -56049,7 +56049,7 @@ r.f.jH(A.oD(s,s,s,B.aR,B.U,B.cc,B.bc,B.ax,s,s,s,s,s,new A.bQ(A.i2(10),B.p),s))},
 $S:0}
 A.Ba.prototype={
 F(a,b){var s=null,r=t.D
-return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_voice_3.png",B.b8,s,s),A.cO(A.b([B.Cj,A.cO(A.b([B.Ca,B.Cb,B.Ci,new A.aw(B.bH,A.tK(B.cb,new A.R9(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
+return A.cP(s,A.e7(B.at,A.b([A.jo("assets/images/card_voice_3.png",B.b8,s,s),A.cO(A.b([B.Ck,A.cO(A.b([B.Ca,B.Cb,B.Cj,new A.aw(B.bH,A.tK(B.cb,new A.R9(b),A.o3(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bx,s,s,s,s)),s)],r),B.E,B.ah,B.F)],r),B.E,B.ah,B.F)],r),B.c8),B.o,s,s,B.bz,s,s,s,s,s,s,s)}}
 A.R9.prototype={
 $0(){var s=null,r=this.a.I(t.Cu)
 r.toString
@@ -59094,11 +59094,11 @@ B.dv=new A.aW(9,"PR")
 B.y_=new A.Bq(1,"drawer")
 B.y0=new A.t3(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.I7=new A.l(!0,B.j,null,null,null,null,20,B.ae,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.J8=new A.b0("AI Technology",null,B.I7,null,null,null)
+B.J9=new A.b0("AI Technology",null,B.I7,null,null,null)
 B.Er=new A.fG(null,10,null,null)
 B.L=new A.l(!0,B.j,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.IT=new A.b0("\uc74c\uc131,\ub300\ud654,\ubb38\uc11c \uc9c0\ub2a5 \ub4f1 \ub2e4\uc591\ud55c \ubd84\uc57c\uc758 AI\uae30\uc220\uc744 \uccb4\ud5d8\ud574\ubcf4\uc138\uc694",null,B.L,null,null,null)
-B.y1=A.b(s([B.J8,B.Er,B.IT]),t.D)
+B.y1=A.b(s([B.J9,B.Er,B.IT]),t.D)
 B.y3=A.b(s([0,1]),t.zp)
 B.y5=A.b(s([B.bJ,B.db,B.dc,B.t,B.a9,B.dd,B.ae,B.de,B.co]),A.ae("v<eo>"))
 B.lG=A.b(s([0,0,32776,33792,1,10240,0,0]),t.t)
@@ -59196,18 +59196,18 @@ B.xL=new A.B8(null)
 B.xN=new A.Ba(null)
 B.zp=A.b(s([B.xJ,B.xL,B.xN]),t.zz)
 B.zq=A.b(s([!0,!1]),t.sj)
-B.J9=new A.b0("\uc74c\uc131 \uc5b8\uc5b4 \ucc98\ub9ac",null,B.tJ,null,null,null)
+B.Ja=new A.b0("\uc74c\uc131 \uc5b8\uc5b4 \ucc98\ub9ac",null,B.tJ,null,null,null)
 B.vB=new A.qF(null)
-B.zr=A.b(s([B.J9,B.tx,B.vB]),t.D)
+B.zr=A.b(s([B.Ja,B.tx,B.vB]),t.D)
 B.lS=A.b(s(["bind","if","ref","repeat","syntax"]),t.s)
 B.tK=new A.l(!0,B.j,null,null,null,null,23,B.ae,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.IG=new A.b0("AI Technology Platform",null,B.tK,null,null,null)
-B.Cp=new A.aw(B.cn,B.IG,null)
+B.Cq=new A.aw(B.cn,B.IG,null)
 B.IX=new A.b0("For Anyone",null,B.tK,null,null,null)
-B.Cy=new A.aw(B.cn,B.IX,null)
-B.J2=new A.b0("TmaxAI \uae30\uc220\ub825\uc73c\ub85c \uc0c8\ub85c\uc6b4 \uac00\uce58\ub97c \ucc3d\ucd9c\ud574\ubcf4\uc138\uc694",null,B.L,null,null,null)
-B.Cn=new A.aw(B.cn,B.J2,null)
-B.zt=A.b(s([B.Cp,B.Cy,B.Cn]),t.D)
+B.Cz=new A.aw(B.cn,B.IX,null)
+B.J3=new A.b0("TmaxAI \uae30\uc220\ub825\uc73c\ub85c \uc0c8\ub85c\uc6b4 \uac00\uce58\ub97c \ucc3d\ucd9c\ud574\ubcf4\uc138\uc694",null,B.L,null,null,null)
+B.Co=new A.aw(B.cn,B.J3,null)
+B.zt=A.b(s([B.Cq,B.Cz,B.Co]),t.D)
 B.eV=A.b(s(["A::href","AREA::href","BLOCKQUOTE::cite","BODY::background","COMMAND::icon","DEL::cite","FORM::action","IMG::src","INPUT::src","INS::cite","Q::cite","VIDEO::poster"]),t.s)
 B.bS=new A.d(4294967304)
 B.dA=new A.d(4294967323)
@@ -60116,10 +60116,10 @@ B.C7=new A.tJ(0,"portrait")
 B.fo=new A.tJ(1,"landscape")
 B.C8=new A.tL(null)
 B.V=new A.aK(2,2,2,2)
-B.J0=new A.b0("\uc790\uc5f0\uc5b4 \ubb38\uc7a5\uc5d0\uc11c \uc8fc\uc694\ud55c \uac1c\uccb4 \uc815\ubcf4",null,B.L,null,null,null)
-B.C9=new A.aw(B.V,B.J0,null)
-B.IZ=new A.b0("TTS(Text-to-Speech)\ub294",null,B.L,null,null,null)
-B.Ca=new A.aw(B.V,B.IZ,null)
+B.J1=new A.b0("\uc790\uc5f0\uc5b4 \ubb38\uc7a5\uc5d0\uc11c \uc8fc\uc694\ud55c \uac1c\uccb4 \uc815\ubcf4",null,B.L,null,null,null)
+B.C9=new A.aw(B.V,B.J1,null)
+B.J_=new A.b0("TTS(Text-to-Speech)\ub294",null,B.L,null,null,null)
+B.Ca=new A.aw(B.V,B.J_,null)
 B.IS=new A.b0("\ubb38\uc790 \ub370\uc774\ud130\ub97c \uc0ac\ub78c\uc774 \ub354\uc6b1 \uc27d\uac8c \uc774\ud574\ud560 \uc218 \uc788\ub3c4\ub85d",null,B.L,null,null,null)
 B.Cb=new A.aw(B.V,B.IS,null)
 B.II=new A.b0("\ubcc0\ud658\ud558\ub294 \uc790\ub3d9 \uc74c\uc131 \uc778\uc2dd \uae30\uc220\uc785\ub2c8\ub2e4",null,B.L,null,null,null)
@@ -60134,38 +60134,38 @@ B.IO=new A.b0("\ubcc0\uc790\ub9c9 \ud14d\uc2a4\ud2b8\ub97c \ub2e4\uc6b4\ubc1b\uc
 B.Cf=new A.aw(B.V,B.IO,null)
 B.IH=new A.b0("\uc694\uc57d\ubb38\uc744 \uc0dd\uc131\ud558\ub294 \ucd94\uc0c1\uc801 \uc694\uc57d",null,B.L,null,null,null)
 B.Cg=new A.aw(B.V,B.IH,null)
+B.IZ=new A.b0("\uae0d\uc815/\ubd80\uc815\uc5d0 \ub530\ub77c -5 ~ +5 \uc0ac\uc774 \uc810\uc218 \ucd9c\ub825",null,B.L,null,null,null)
+B.Ch=new A.aw(B.V,B.IZ,null)
 B.IR=new A.b0("STT(Speech to Text)",null,B.ca,null,null,null)
-B.Ch=new A.aw(B.bG,B.IR,null)
-B.IK=new A.b0("\uc74c\uc131\uc73c\ub85c \ubcc0\ud658\ud558\ub294 \uc74c\uc131 \ud569\uc131 \uae30\uc220\uc785\ub2c8\ub2e4",null,B.L,null,null,null)
-B.Ci=new A.aw(B.V,B.IK,null)
-B.J7=new A.b0("TTS(Text to Speech)",null,B.ca,null,null,null)
-B.Cj=new A.aw(B.bG,B.J7,null)
-B.IL=new A.b0("\ubb38\uc11c \ubd84\ub958",null,B.ca,null,null,null)
-B.Ck=new A.aw(B.bG,B.IL,null)
-B.J5=new A.b0("\uac10\uc131 \ubd84\uc11d",null,B.ca,null,null,null)
-B.Cl=new A.aw(B.bG,B.J5,null)
-B.J1=new A.b0("\uc8fc\uc694 \uac1c\uccb4\uba85 \uc704\uce58 \uc778\uc2dd \ubc0f \uce74\ud14c\uace0\ub9ac\ubcc4 \ubd84\ub958",null,B.L,null,null,null)
-B.Cm=new A.aw(B.V,B.J1,null)
+B.Ci=new A.aw(B.bG,B.IR,null)
+B.IL=new A.b0("\uc74c\uc131\uc73c\ub85c \ubcc0\ud658\ud558\ub294 \uc74c\uc131 \ud569\uc131 \uae30\uc220\uc785\ub2c8\ub2e4",null,B.L,null,null,null)
+B.Cj=new A.aw(B.V,B.IL,null)
+B.J8=new A.b0("TTS(Text to Speech)",null,B.ca,null,null,null)
+B.Ck=new A.aw(B.bG,B.J8,null)
+B.IM=new A.b0("\ubb38\uc11c \ubd84\ub958",null,B.ca,null,null,null)
+B.Cl=new A.aw(B.bG,B.IM,null)
+B.J6=new A.b0("\uac10\uc131 \ubd84\uc11d",null,B.ca,null,null,null)
+B.Cm=new A.aw(B.bG,B.J6,null)
+B.J2=new A.b0("\uc8fc\uc694 \uac1c\uccb4\uba85 \uc704\uce58 \uc778\uc2dd \ubc0f \uce74\ud14c\uace0\ub9ac\ubcc4 \ubd84\ub958",null,B.L,null,null,null)
+B.Cn=new A.aw(B.V,B.J2,null)
 B.IQ=new A.b0("\uc601\uc0c1 \uc790\ub9c9 \uc0dd\uc131",null,B.ca,null,null,null)
-B.Co=new A.aw(B.bG,B.IQ,null)
-B.J_=new A.b0("\uc74c\uc131 \ub370\uc774\ud130\ub97c \uc815\ud655\ud558\uac8c \ud14d\uc2a4\ud2b8\ub85c",null,B.L,null,null,null)
-B.Cq=new A.aw(B.V,B.J_,null)
-B.Ja=new A.b0("\uae0d\uc815/\ubd80\uc815 \ub2e8\uacc4\uc5d0 \ub530\ub77c -5 ~ +5 \uc0ac\uc774 \uc810\uc218 \ucd9c\ub825",null,B.L,null,null,null)
-B.Cr=new A.aw(B.V,B.Ja,null)
+B.Cp=new A.aw(B.bG,B.IQ,null)
+B.J0=new A.b0("\uc74c\uc131 \ub370\uc774\ud130\ub97c \uc815\ud655\ud558\uac8c \ud14d\uc2a4\ud2b8\ub85c",null,B.L,null,null,null)
+B.Cr=new A.aw(B.V,B.J0,null)
+B.IK=new A.b0("\ud55c\uae00 \ud14d\uc2a4\ud2b8\uc758 \uac10\uc131\uc744 \uae0d\uc815 \ubc0f \ubd80\uc815\uc73c\ub85c \ubd84\ub958",null,B.L,null,null,null)
+B.Cs=new A.aw(B.V,B.IK,null)
 B.IV=new A.b0("\uc774\uc9c4 \ubd84\ub958 \uc815\ud655\ub3c4 88.46%",null,B.L,null,null,null)
-B.Cs=new A.aw(B.V,B.IV,null)
+B.Ct=new A.aw(B.V,B.IV,null)
 B.IP=new A.b0("\uc790\ub9c9\uc744 \ub9cc\ub4e4\uace0 \uc0ac\uc6a9\uc790\uac00 \ud3b8\uc9d1\uac00\ub2a5\ud558\uba70",null,B.L,null,null,null)
-B.Ct=new A.aw(B.V,B.IP,null)
+B.Cu=new A.aw(B.V,B.IP,null)
 B.IJ=new A.b0("\uc601\uc0c1\uc744 \uc5c5\ub85c\ub4dc\ud558\uba74 \uc790\ub3d9\uc73c\ub85c",null,B.L,null,null,null)
-B.Cu=new A.aw(B.V,B.IJ,null)
+B.Cv=new A.aw(B.V,B.IJ,null)
 B.IU=new A.b0("(\uc778\ubb3c\uba85, \uae30\uad00\uba85, \ub0a0\uc9dc \ub4f1)\ub97c \uc778\uc2dd \ubc0f \ucd94\ucd9c",null,B.L,null,null,null)
-B.Cv=new A.aw(B.V,B.IU,null)
-B.J6=new A.b0("STT(Speech-to-Text)\ub294",null,B.L,null,null,null)
-B.Cw=new A.aw(B.V,B.J6,null)
+B.Cw=new A.aw(B.V,B.IU,null)
+B.J7=new A.b0("STT(Speech-to-Text)\ub294",null,B.L,null,null,null)
+B.Cx=new A.aw(B.V,B.J7,null)
 B.IN=new A.b0("\ubb38\uc11c\ub97c \uc785\ub825 \ubc1b\uc544 \ub0b4\uc6a9\uc744 \uc694\uc57d\ud558\uc5ec",null,B.L,null,null,null)
-B.Cx=new A.aw(B.V,B.IN,null)
-B.IM=new A.b0("\ud55c\uad6d\uc5b4 \uc785\ub825 \ud14d\uc2a4\ud2b8\uc758 \uac10\uc131\uc744 \uae0d\uc815 \ubc0f \ubd80\uc815\uc73c\ub85c \ubd84\ub958",null,B.L,null,null,null)
-B.Cz=new A.aw(B.V,B.IM,null)
+B.Cy=new A.aw(B.V,B.IN,null)
 B.CA=new A.tO(null)
 B.aC=new A.tS(0,"fill")
 B.N=new A.tS(1,"stroke")
@@ -60645,8 +60645,8 @@ B.IE=new A.de(B.FH,B.Hm,B.Hz,B.If,B.GW,B.G3,B.Ht,B.GZ,B.H6,B.HX,B.Gd,B.Ik,B.GR,B
 B.IF=new A.vp(1,"longestLine")
 B.HH=new A.l(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.cb=new A.b0("\uccb4\ud5d8\ud558\uae30",null,B.HH,null,null,null)
-B.J3=new A.b0("tmax@tmax.co.kr",null,null,null,null,null)
-B.J4=new A.b0("TmaxAI",null,null,null,null,null)
+B.J4=new A.b0("tmax@tmax.co.kr",null,null,null,null,null)
+B.J5=new A.b0("TmaxAI",null,null,null,null,null)
 B.cc=new A.b0("\ud604\uc7ac \uc900\ube44\uc911\uc778 \uae30\ub2a5\uc785\ub2c8\ub2e4",null,null,null,null,null)
 B.LE=new A.Ex(0,"system")
 B.Jc=new A.vs(0)
