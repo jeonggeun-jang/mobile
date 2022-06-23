@@ -20,58 +20,63 @@
   <link rel="manifest" href="manifest.json">
 
   <style>
-    * {
+    body {
       margin: 0;
       padding: 0;
-      box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
-    }
-    body {
-      display: flex;
       overflow: hidden;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      background: #000;
     }
 
-    .content {position: relative;}
-    .content h2 {
+    .container {
+      background: #fff;
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      animation: fade-out 4s;
+    }
+
+    .container #logo {
+      --size: 30%;
       position: absolute;
+      top: 50%;
+      left: 50%;
       transform: translate(-50%, -50%);
-      font-size: 4em;
+      width: var(--size);
+      animation: zoom-in 2s;
+      animation-delay: 1s;
     }
-    .content h2:nth-child(1) {
-      color: transparent;
-      -webkit-text-stroke: 2px #03a9f4;
-    }
-    .content h2:nth-child(2) {
-      color: #03a9f4;
-      animation: animate 4s ease-in-out infinite;
-    }
-    @keyframes animate {
-      0%, 100% {
-        clip-path: polygon(0% 45%, 15% 44%, 32% 50%,
-        54% 60%, 70% 61%, 84% 59%, 100% 52%,
-        100% 100%, 0% 100%);
-      }
+
+    @keyframes zoom-in {
       50% {
-        clip-path: polygon(0 60%, 16% 65%, 34% 66%,
-        51% 62%, 67% 50%, 84% 45%, 100% 46%, 100% 100%, 0% 100%);
+        width: var(--size);
+      }
+      60% {
+        width: calc(var(--size)*0.9);
+      }
+      100% {
+        width: 80%;
+      }
+    }
+
+    @keyframes fade-out {
+      0%, 85% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
       }
     }
   </style>
+
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '4142547371';
+    var serviceWorkerVersion = '705888084';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
-  <div class="content">
-    <h2>SuperNLP</h2>
-    <h2>SuperNLP</h2>
+  <div id="container">
+    <img src="./assets/superNLP_black.png" id="logo">
   </div>
   <script>
     window.addEventListener('load', function(ev) {
@@ -84,7 +89,7 @@
         return engineInitializer.initializeEngine();
       }).then(function(appRunner) {
 
-        var loadingIndicator = document.getElementById('loading_indicator');
+        var loadingIndicator = document.getElementById('container');
         if(loadingIndicator){
           loadingIndicator.remove();
         }
